@@ -88,6 +88,14 @@ $( function() {
 $( "#datepicker" ).datepicker(); */
 
 
+/* .dialog()
+$( "#dialog" ).dialog();*/
+
+
+
+/* .menu()
+$( "#menu" ).menu(); */
+
 
 
 
