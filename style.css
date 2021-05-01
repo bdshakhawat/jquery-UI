@@ -1,0 +1,45 @@
+/* body{
+    margin: 0;
+} 
+#draggable{
+    height: 150px;
+    width: 150px;
+    padding: 0.5rem;
+    background: gray;
+    border: 1px solid gray;
+} 
+#draggable p{
+    color: honeydew;
+    font-size: 20px;
+}  */
+
+/* .drag-style{
+    height: 150px;
+    width: 150px;
+    padding: 0.5rem;
+    background: gray;
+    border: 1px solid gray;
+}
+.dragable p{
+    color: honeydew;
+    font-size: 20px;
+}*/
+/* .container{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+} */ 
+
+.ui-controlgroup-vertical {
+    width: 150px;
+  }
+  .ui-controlgroup.ui-controlgroup-vertical > button.ui-button,
+  .ui-controlgroup.ui-controlgroup-vertical > .ui-controlgroup-label {
+    text-align: center;
+  }
+  #car-type-button {
+    width: 120px;
+  }
+  .ui-controlgroup-horizontal .ui-spinner-input {
+    width: 20px;
+  }
